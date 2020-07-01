@@ -13,6 +13,11 @@ public class InOutFasy {
         return in.nextFloat();
     }
 
+    public char inputChar(){
+        Scanner in = new Scanner(System.in);
+        return in.next().charAt(0);
+    }
+
     public void outLn(String s){
         Scanner in = new Scanner(System.in);
         System.out.println(s);
