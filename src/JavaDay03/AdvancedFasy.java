@@ -8,8 +8,8 @@ public class AdvancedFasy {
 //A6-------------------------------------------------
 // Write a program that finds the maximum of 3 numbers (by using if/else). Discuss with
 //        the your partner.
-
-
+//
+//
 //        boolean exit = false;
 //
 //        while(!exit) {
@@ -35,6 +35,9 @@ public class AdvancedFasy {
 //                exit = true;
 //            }
 //        }
+
+
+
 //A6-------------------------------------------------
 //        Expand the program to produce a result in the console like this:
 //        The biggest one is 52, the 2nd one is 24, and the smallest one is 11.
