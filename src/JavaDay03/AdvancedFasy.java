@@ -42,16 +42,15 @@ public class AdvancedFasy {
 //        Expand the program to produce a result in the console like this:
 //        The biggest one is 52, the 2nd one is 24, and the smallest one is 11.
 
-
         boolean exit = false;
         float temp = 0;
 
         while(!exit) {
             y.out("Please enter the first Number: ");
             float n1 = y.inputFloat();
-            y.out("Please enter the first Number: ");
+            y.out("Please enter the second Number: ");
             float n2 = y.inputFloat();
-            y.out("Please enter the first Number: ");
+            y.out("Please enter the third Number: ");
             float n3 = y.inputFloat();
 
             if (n1 > n2) {

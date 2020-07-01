@@ -19,12 +19,10 @@ public class InOutFasy {
     }
 
     public void outLn(String s){
-        Scanner in = new Scanner(System.in);
-        System.out.println(s);
+         System.out.println(s);
     }
 
     public void out(String s){
-        Scanner in = new Scanner(System.in);
-        System.out.print(s);
+         System.out.print(s);
     }
 }
