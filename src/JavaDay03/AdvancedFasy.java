@@ -21,9 +21,7 @@ public class AdvancedFasy {
             if (n1 > n2) {
                 n2 = n1;
             }
-            if (n1 > n3) {
-                n3 = n1;
-            }
+
             if (n2 > n3) {
                 y.outLn("The maximum is: " + n2);
             } else {
