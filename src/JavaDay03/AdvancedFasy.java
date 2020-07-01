@@ -75,7 +75,7 @@ public class AdvancedFasy {
                 n2 = temp;
             }
 
-            y.outLn("The biggest one is " + n1 + " 2nd one is " + n2 + " ,and the smallest one is " + n3 + "!");
+            y.outLn("The biggest one is " + n1 + ", 2nd one is " + n2 + " ,and the smallest one is " + n3 + "!");
             y.out("again? y/n: ");
             char answer = y.inputChar();
 
