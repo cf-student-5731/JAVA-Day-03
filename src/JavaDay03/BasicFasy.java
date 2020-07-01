@@ -3,8 +3,6 @@ package JavaDay03;
 
 public class BasicFasy {
 
-
-
     public static void main(String[] args) {
         InOutFasy y = new InOutFasy();
 //A1--------------------------------------------------------
